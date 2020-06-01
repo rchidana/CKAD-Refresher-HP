@@ -1,0 +1,1 @@
+kubectl run my-pod --image=nginx:1.17 --dry-run=client -o yaml
